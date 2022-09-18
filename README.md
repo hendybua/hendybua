@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hendybua
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate with someone who looking a parter to study together.
+- 💞️ I’m looking to collaborate with someone who wants a parter to study together.
 - 📫 How to reach me DM me on IG @hendybua
 
 <!---
